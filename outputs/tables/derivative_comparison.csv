@@ -1,0 +1,7 @@
+Problem,Method,Best fitness,Best solution,Success,Iterations / evaluations
+Test Problem 1,GA Binary with elitism,6.7712049164875026e-12,"[1.0000007, 1.0000017]",Not applicable,22600 evaluations
+Test Problem 1,GA Real with elitism,7.1510937552982246e-06,"[0.99807932, 0.99634841]",Not applicable,22600 evaluations
+Test Problem 1,BFGS (multi-start),1.9987382721866673e-11,"[0.99999553, 0.99999105]",True,22 iterations / 93 evaluations
+"Ackley function, n=2",GA Binary with elitism,1.9531377053461085e-06,"[-4.8828125e-07, -4.8828125e-07]",Not applicable,37600 evaluations
+"Ackley function, n=2",GA Real with elitism,0.0006489982491832968,"[-6.2059366e-06, 0.00022887787]",Not applicable,37600 evaluations
+"Ackley function, n=2",BFGS (multi-start),4.440892098500626e-16,"[0, 0]",False,0 iterations / 165 evaluations

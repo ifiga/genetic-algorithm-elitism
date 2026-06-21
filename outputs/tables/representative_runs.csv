@@ -1,0 +1,7 @@
+Problem,problem_key,encoding,Selected run,Final best fitness,Selection rule
+Test Problem 1,test_problem_1,binary,8,0.04000011914342779,Run closest to median final best fitness within each problem and encoding
+Test Problem 1,test_problem_1,real,1,0.0001024660191174046,Run closest to median final best fitness within each problem and encoding
+"Rastrigin function, n=5",rastrigin_n5,binary,5,4.702274763707479,Run closest to median final best fitness within each problem and encoding
+"Rastrigin function, n=5",rastrigin_n5,real,12,0.0011416027366095705,Run closest to median final best fitness within each problem and encoding
+"Ackley function, n=2",ackley_n2,binary,1,1.9531377195569632e-06,Run closest to median final best fitness within each problem and encoding
+"Ackley function, n=2",ackley_n2,real,16,0.0022386612637359526,Run closest to median final best fitness within each problem and encoding
